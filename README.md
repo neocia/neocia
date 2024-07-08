@@ -44,4 +44,4 @@ Portfolio: https://neo-space.vercel.app/
   
 </div>
 
-![](https://komarev.com/ghpvc/?username=neocia)
+![](https://komarev.com/ghpvc/?username=neocia&color=brightgreen&style=flat-square)
