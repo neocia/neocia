@@ -17,9 +17,9 @@ Portfolio: https://neo-space.vercel.app/
 
 
 
+![neocia's GitHub stats](https://github-readme-stats.vercel.app/api?username=neocia&theme=shadow_green&show_icons=true&card_width=400)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neocia&layout=compact&theme=shadow_green&show_icons=true&card_width=400)](https://github.com/neocia/github-readme-stats)
 
-![neocia's GitHub stats](https://github-readme-stats.vercel.app/api?username=neocia&theme=shadow_green&show_icons=true&card_width=300)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neocia&layout=compact&theme=shadow_green&show_icons=true&card_width=300)](https://github.com/neocia/github-readme-stats)
 
 
 <div style="display: inline_block" align="center"><br>
