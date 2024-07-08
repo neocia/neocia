@@ -1,5 +1,5 @@
 <div align="center"> 
-<img align="center" alt="neo-space" src="https://github.com/neocia/NeoWorld/blob/master/NEO-SPACE-GIF%20%E2%80%90%20Feito%20com%20o%20Clipchamp(2).gif">
+<img align="center" alt="neo-space" height="300" width="500" src="https://github.com/neocia/NeoWorld/blob/master/LOGO-GREENLIGHT.png">
 </div>
 
 
