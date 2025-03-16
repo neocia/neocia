@@ -1,19 +1,7 @@
 <div align="center"> 
-<img align="center" alt="neo-space" height="300" width="500" src="https://github.com/neocia/NeoWorld/blob/master/LOGO-GREENLIGHT.png">
+
 </div>
 
-
-
-## Olá, meu nome é Letícia, também conhecida como Neocia || Neoxx || Neo. 💚
-
-
-Seja muito bem vindo(a)! ♥
-
-Portfolio: https://neo-space.vercel.app/
-
--🌱 I’m currently learning Python, JavaScript & React
-
--🟢 Pronouns: ela/dela - she/her
 
 
 
